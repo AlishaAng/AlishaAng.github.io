@@ -2,7 +2,7 @@
 title: "Bursty Dynamics"
 excerpt: "Tool to analyse patterns and clusters in longitudinal data."
 collection: projects
-video_url: 'images/vids/train_vid.mov'
+imageurl: '/images/projects/train.png'
 ---
 
 Github: https://github.com/ai-multiply/bursty_dynamics <br>

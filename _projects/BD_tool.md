@@ -2,11 +2,16 @@
 title: "Bursty Dynamics"
 excerpt: "Tool to analyse patterns and clusters in longitudinal data."
 collection: projects
-imageurl: '../images/projects/train.PNG'
+video_url: '../images/projects/train_vid.mp4'
 date: 2024-11-05
 ---
 
-<center><img src="../images/projects/train.PNG"></center>
+<center>
+  <video width="600" controls loop>
+    <source src="../images/projects/train_vid.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</center>
 
 ## Files:
 

@@ -2,11 +2,11 @@
 title: "Bursty Dynamics"
 excerpt: "Tool to analyse patterns and clusters in longitudinal data."
 collection: projects
-imageurl: '/images/projects/train.PNG'
+imageurl: '../images/projects/train.PNG'
 date: 2024-11-05
 ---
 
-<center><img src="/images/projects/train.PNG"></center>
+<center><img src="../images/projects/train.PNG"></center>
 
 ## Files:
 

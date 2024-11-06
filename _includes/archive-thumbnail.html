@@ -15,7 +15,14 @@
 <div class="container-fluid">
     <div class="row align-items-center"> 
         <div class="col-md-3">
-            <img class="img-responsive" src="{{post.imageurl}}">
+            {% if post.video_url %}
+                <video width="100%" loop muted>
+                    <source src="{{ post.video_url }}" type="video/mp4">
+                    Your browser does not support the video tag.
+                </video>
+            {% elsif post.imageurl %}
+                <img class="img-responsive" src="{{ post.imageurl }}" alt="{{ post.title }}">
+            {% endif %}
         </div>
         <div class="col-md-9">
             <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">

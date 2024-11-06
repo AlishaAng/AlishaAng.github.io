@@ -11,3 +11,5 @@ I am Alisha Angdembe, a Data Scientist/Researcher at the William Harvey Research
 
 I have experience in analysing large electronic health records (EHRs), including those from the [Clinical Practice Research Datalink (CPRD)](https://www.cprd.com). I am interested in using EHRs to gain meaningful insights and identify patterns that can contribute to improving healthcare outcomes.
 
+
+

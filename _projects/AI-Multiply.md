@@ -7,16 +7,14 @@ collection: projects
 date: 2021-03-01
 role: "Data Scientist / Researcher"
 external_url: https://ai-multiply.co.uk/
-status: "Active"
 ---
 
 **Researcher analysing large-scale electronic health records (EHR)** within the **AI-MULTIPLY consortium**, a UK-wide collaboration applying artificial intelligence to understand **multiple long-term conditions (MLTC)** and **polypharmacy**.
 
 > William Harvey Research Institute, Queen Mary University of London (2021-03 — present)
 
-
 ## My Contributions
-- **Led the analysis of EHR data** from the Clinical Practice Research Datalink (CPRD), covering millions of patients across the UK.  
+- **Analysed the EHR data** from the Clinical Practice Research Datalink (CPRD), covering millions of patients across the UK.  
 - Applied **machine learning**, **AI**, and **survival analysis** methods to model multimorbidity trajectories, medication patterns, and patient outcomes.  
 - Worked in an **interdisciplinary team** with clinicians, pharmacists, computer scientists, and data managers to design and interpret analyses.  
 - Communicated findings and progress effectively through consortium meetings, presentations, and written reports for diverse audiences.  
@@ -32,7 +30,6 @@ status: "Active"
 *bursty_dynamics* is a Python package designed to facilitate the analysis of temporal patterns in longitudinal data. It provides functions to calculate the burstiness parameter (BP) and memory coefficient (MC), detect event trains, and visualise results.
 
 ### Files:
-
 [Paper](https://doi.org/10.48550/arXiv.2411.03210) <br>
 [Github](https://github.com/ai-multiply/bursty_dynamics) <br>
 [Pypi](https://pypi.org/projects/bursty-dynamics/) <br>

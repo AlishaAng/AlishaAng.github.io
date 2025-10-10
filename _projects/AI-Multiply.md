@@ -1,9 +1,9 @@
 ---
 title: "AI-MULTIPLY — AI for multiple long-term conditions & polypharmacy"
 type: "Consortium project"
-excerpt: "Tool to analyse patterns and clusters in longitudinal data."
+excerpt: "Active member of the AI-MULTIPLY consortium, a UK-wide collaboration using AI to understand how multiple long-term conditions (MLTC) and polypharmacy interact across diverse populations and inform healthcare pathways."
 collection: projects
-imageurl: '/images/projects/train.png'
+# imageurl: '/images/projects/train.png'
 date: 2021-03-01
 role: "Data Scientist / Researcher"
 external_url: https://ai-multiply.co.uk/

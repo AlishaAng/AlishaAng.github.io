@@ -1,7 +1,7 @@
 ---
 title: "Bursty Dynamics Analysis Tool for Temporal Event Data"
 # type: "Consortium project"
-# excerpt: "Active member of the AI-MULTIPLY consortium, a UK-wide collaboration using AI to understand how multiple long-term conditions (MLTC) and polypharmacy interact across diverse populations and inform healthcare pathways."
+excerpt: "*bursty_dynamics* is a Python package designed to facilitate the analysis of temporal patterns in longitudinal data. It provides functions to calculate the burstiness parameter (BP) and memory coefficient (MC), detect event trains, and visualise results."
 collection: projects
 # imageurl: '/images/projects/train.png'
 date: 2024-09-19
@@ -15,11 +15,8 @@ external_url: https://ai-multiply.co.uk/
 
 ## My Contributions
 - Designed a reusable analysis tool to quantify temporal event dynamics (regular vs random vs bursty behaviour) in longitudinal data
-
 - Developed clear documentation and examples to support research reproducibility and reuse
-
 - Applied the tool to healthcare-style event data, demonstrating relevance to EHRs, patient trajectories, and time-dependent risk
-
 
 ### Files:
 [Paper](https://doi.org/10.48550/arXiv.2411.03210) <br>

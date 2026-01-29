@@ -5,7 +5,7 @@ date: 2026-01-22
 ---
 Tech: Python · scikit-learn · FastAPI · Docker · Streamlit
 
-![Diabetes risk prediction app](/images/webpage.png)
+<img src="/images/webpage.png" alt="Diabetes risk prediction app" width="500">
 
 What I did
 

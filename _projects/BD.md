@@ -8,12 +8,12 @@ date: 2024-09-19
 role: "Data Scientist / Researcher"
 external_url: https://ai-multiply.co.uk/
 ---
+Tech: Python · temporal analysis · statistical modelling
 
 ## `bursty_dynamics` Tool
 
 *bursty_dynamics* is a Python package designed to facilitate the analysis of temporal patterns in longitudinal data. It provides functions to calculate the burstiness parameter (BP) and memory coefficient (MC), detect event trains, and visualise results.
 
-Tech: Python · temporal analysis · statistical modelling
 
 ## My Contributions
 - Designed and implemented an open-source Python package for quantifying burstiness in temporal event sequences

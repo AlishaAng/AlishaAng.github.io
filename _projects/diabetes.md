@@ -3,9 +3,9 @@ title: "🩺 Diabetes Risk Prediction App"
 excerpt: ""
 date: 2026-01-22
 ---
-![Diabetes risk prediction app](../images/webpage.png)
-
 Tech: Python · scikit-learn · FastAPI · Docker · Streamlit
+
+![Diabetes risk prediction app](/images/webpage.png)
 
 What I did
 

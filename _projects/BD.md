@@ -1,5 +1,5 @@
 ---
-title: "Bursty Dynamics Analysis Tool for Temporal Event Data"
+title: "Bursty Dynamics: Open-Source Temporal Pattern Analysis Package (Python)"
 # type: "Consortium project"
 excerpt: "*bursty_dynamics* is a Python package designed to facilitate the analysis of temporal patterns in longitudinal data. It provides functions to calculate the burstiness parameter (BP) and memory coefficient (MC), detect event trains, and visualise results."
 collection: projects
@@ -16,11 +16,13 @@ external_url: https://ai-multiply.co.uk/
 Tech: Python · temporal analysis · statistical modelling
 
 ## My Contributions
-- Designed a reusable analysis tool to quantify temporal event dynamics (regular vs random vs bursty behaviour) in longitudinal data
-- Developed clear documentation and examples to support research reproducibility and reuse
-- Applied the tool to healthcare-style event data, demonstrating relevance to EHRs, patient trajectories, and time-dependent risk
+- Designed and implemented an open-source Python package for quantifying burstiness in temporal event sequences
+- Implemented a reusable, well-tested Python package
+- Authored full technical documentation using Sphinx
+- Published to PyPI and archived on Zenodo for citation
 
-### Files:
+
+### Links:
 [Paper](https://doi.org/10.48550/arXiv.2411.03210) <br>
 [Github](https://github.com/ai-multiply/bursty_dynamics) <br>
 [Pypi](https://pypi.org/projects/bursty-dynamics/) <br>

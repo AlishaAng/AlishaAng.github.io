@@ -16,10 +16,11 @@ Tech: Python · temporal analysis · statistical modelling
 
 
 ## My Contributions
-- Designed and implemented an open-source Python package for quantifying burstiness in temporal event sequences
-- Implemented a reusable, well-tested Python package
-- Authored full technical documentation using Sphinx
-- Published to PyPI and archived on Zenodo for citation
+• Designed and implemented an open-source Python package for analysing
+temporal event sequences
+• Published on PyPI and archived on Zenodo for reproducibility
+• Full Sphinx documentation
+• Designed the tool for research and applied use, with relevance to user behaviour analysis, anomaly detection, and healthcare event data.
 
 
 ### Links:

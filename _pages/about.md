@@ -7,9 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-I am Alisha Angdembe, a Data Scientist/Researcher at the William Harvey Research Institute, Queen Mary, University of London. I am a part of Queen Mary's [Digital Environment Research Institute (DERI)](https://www.qmul.ac.uk/deri/). Since 2021, I have been ivolved in the [AI-Multiply consortium](https://ai-multiply.co.uk/), where I analyse large electronic health record datasets to understand long-term conditions and polypharmacy.
+I am Alisha Angdembe, a Data Scientist/Researcher with over 5 years’ experience working in healthcare data science. I previously worked at the William Harvey Research Institute, Queen Mary University of London, as part of the [AI-Multiply consortium](https://ai-multiply.co.uk/), where I analysed large-scale electronic health record (EHR) datasets to study long-term conditions and polypharmacy.
 
-I have experience in analysing large electronic health records (EHRs), including those from the [Clinical Practice Research Datalink (CPRD)](https://www.cprd.com). I am interested in using EHRs to gain meaningful insights and identify patterns that can contribute to improving healthcare outcomes.
+I have extensive experience working with real-world healthcare data, including the [Clinical Practice Research Datalink (CPRD)](https://www.cprd.com), applying machine learning and statistical methods to longitudinal patient records.
 
-
-
+I am particularly interested in using EHR data to uncover meaningful patterns, build robust predictive models, and generate insights that can contribute to improving healthcare outcomes.

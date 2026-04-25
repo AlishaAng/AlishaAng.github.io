@@ -6,7 +6,7 @@ date: 2026-04-1
 ---
 
 ## NewsDepth
-newsdepth.news
+[newsdepth.news](newsdepth.news)
 
 
 #### What it does
